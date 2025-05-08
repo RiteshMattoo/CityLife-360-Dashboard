@@ -80,7 +80,7 @@ This repository contains a comprehensive business intelligence dashboard develop
 
 ##Final Conclusion
 
-The CityLife 360 Dashboard provides a centralized, interactive BI solution to track performance across Sales, Wealth, and Insurance verticals. With real-time KPIs, YoY comparisons, advisor metrics, and regional insights, this dashboard supports strategic decision-making and operational visibility for financial services.
+The CityLife 360 Dashboard provides a centralized, interactive BI solution to track performance across Sales, Wealth, and Insurance verticals. With real-time KPIs, YoY comparisons, advisor metrics, and regional insights, this dashboard supports strategic decision-making and operational visibility for financial services
 
 
 
